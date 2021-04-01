@@ -319,19 +319,19 @@ void ExampleWindow::do_logic() //Движение картинки
 		if (_cloud1_x >= width())
 			_cloud1_x = -900;
 
-	_otboibliz_x -= 1;
-		if (_otboibliz_x <= -width())
-			_otboibliz_x = 900;
-	_otboibliz1_x -= 1;
-		if (_otboibliz1_x <= -width())
-			_otboibliz1_x = 900;
+//	_otboibliz_x -= 1;
+//		if (_otboibliz_x <= -width())
+//			_otboibliz_x = 900;
+//	_otboibliz1_x -= 1;
+//		if (_otboibliz1_x <= -width())
+//			_otboibliz1_x = 900;
 
-	_otboidaln_x -= 1;
-		if (_otboidaln_x <= -width())
-			_otboidaln_x = 900;
-	_otboidaln1_x -= 1;
-		if (_otboidaln1_x <= -width())
-			_otboidaln1_x = 900;
+//	_otboidaln_x -= 1;
+//		if (_otboidaln_x <= -width())
+//			_otboidaln_x = 900;
+//	_otboidaln1_x -= 1;
+//		if (_otboidaln1_x <= -width())
+//			_otboidaln1_x = 900;
 
 	_treemnog_x -= 2;
 		if (_treemnog_x <= -width())
